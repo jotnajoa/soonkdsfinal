@@ -83,5 +83,5 @@ app.use('/ptcapi',async function (request,response){
 //creating api for temperature project
 
 
-app.listen(8000,()=>{console.log('running')})
+app.listen(process.env.PORT || 8000)
 
