@@ -48,6 +48,7 @@ body{
     text-align:center;
     width:300px;
     height:300px;
+    visibility:hidden;
 
 }
 .photo{
@@ -122,7 +123,6 @@ body{
     grid-column: 2/3;
 }
 .detailContainer{
-    border:solid 1px #ffffff;
     grid-column:3/4;
     grid-row:2/3;
     display:grid;

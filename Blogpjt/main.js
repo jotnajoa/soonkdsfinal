@@ -112,6 +112,11 @@ d3.json('/ptcapi').then((d)=>{
     // templateData 는 template가 compile한 html바디이고
     // 이 html body를 최종적으로 contentDiv에 붙여넣은것이라고보면됨
 
+    setTimeout(()=>{
+        let myTimeline=gsap.timeline();
+
+        myTimeline.staggerTo(".albums", 1, {visibility:'visible'}, 0.1);
+    },500)
 
 
        
@@ -183,12 +188,11 @@ function showData(date,coord,location){
 
 function removeContainer(){
     $('.visContainer').remove()
-
-
     $('#contentDiv').css('visibility','visible')
     $('.heading').css('position','fixed')
                  .css('top',`0px`)
                  .css('filter','none')
+    $('.albums').css('visibility','visible')
 
 }
 function coordTrack(i){
@@ -232,8 +236,10 @@ function renderMap(mapCoord){
 }
 
 function hideBack(toppos){
+    $('.albums').css('visibility','hidden')
     $('#contentDiv').css('visibility','hidden')
     $('.heading').css('position','absolute')
                  .css('top',`${toppos-300}px`)
                  .css('filter','blur(1px)')
+   
 }
