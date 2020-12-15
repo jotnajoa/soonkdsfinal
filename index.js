@@ -18,6 +18,7 @@ dotenv.config();
 app.use('/aapjt',express.static('./AApjt'));
 app.use('/ptcpjt',express.static('./Particlepjt'))
 app.use('/blgpjt',express.static('./Blogpjt'))
+app.use('/',express.static('./public'))
 
 db_credentials = {
     host: 'ds-20.crrxaw2b5hr1.us-east-1.rds.amazonaws.com',
