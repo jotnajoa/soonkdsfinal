@@ -1,0 +1,3368 @@
+[
+  {
+  "address": "20 Cardinal Hayes Place",
+  "venue": "St Andrews Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:00 AM to 8:00 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7132514,
+  "lon": -74.002398
+  },
+  {
+  "address": "20 Cardinal Hayes Place",
+  "venue": "St. Andrew&apos;s Church",
+  "mtgday": "Mondays",
+  "mtgtime": "12:15 PM to 8:00 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7132514,
+  "lon": -74.002398
+  },
+  {
+  "address": "29 Mott Street",
+  "venue": "Church of the Transfiguration",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:30 PM to 8:00 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7147965,
+  "lon": -73.9990363
+  },
+  {
+  "address": "49 Fulton Street",
+  "venue": "St. Margaret&apos;s Residence",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 8:00 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7080393,
+  "lon": -74.0042361
+  },
+  {
+  "address": "44 John Street",
+  "venue": "",
+  "mtgday": "Mondays",
+  "mtgtime": "12:15 PM to 8:00 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7091732,
+  "lon": -74.0080677
+  },
+  {
+  "address": "49 Fulton Street",
+  "venue": "",
+  "mtgday": "Mondays",
+  "mtgtime": "6:30 AM to 8:00 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7080393,
+  "lon": -74.0042361
+  },
+  {
+  "address": "20 Cardinal Hayes Place",
+  "venue": "St. Andrew&apos;s Church",
+  "mtgday": "Fridays",
+  "mtgtime": "6:00 PM to 8:00 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7132514,
+  "lon": -74.002398
+  },
+  {
+  "address": "22 Barclay Street",
+  "venue": "St. Peter&apos;s Church",
+  "mtgday": "Sundays",
+  "mtgtime": "6:00 PM to 8:00 AM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7125016,
+  "lon": -74.0094639
+  },
+  {
+  "address": "20 Cardinal Hayes Place",
+  "venue": "St. Andrew&apos;s Church",
+  "mtgday": "Mondays",
+  "mtgtime": "1:15 PM to 8:00 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7132514,
+  "lon": -74.002398
+  },
+  {
+  "address": "22 Barclay Street (Basement)",
+  "venue": "Saint Peter&apos;s Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:30 PM to 8:00 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7125016,
+  "lon": -74.0094639
+  },
+  {
+  "address": "283 West Broadway",
+  "venue": "Hazelden Tribeca",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 8:00 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7144166,
+  "lon": -73.9843646
+  },
+  {
+  "address": "125 Barclay Street",
+  "venue": "Municipal Union Bldg DC 37",
+  "mtgday": "Saturdays",
+  "mtgtime": "2:00 PM to 8:00 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7143477,
+  "lon": -74.0130151
+  },
+  {
+  "address": "49 Fulton Street",
+  "venue": "St. Margaret&apos;s House",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:00 PM to 8:00 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7080393,
+  "lon": -74.0042361
+  },
+  {
+  "address": "49 Fulton Street",
+  "venue": "St. Margaret&apos;s House",
+  "mtgday": "Thursdays",
+  "mtgtime": "12:15 PM to 8:00 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7080393,
+  "lon": -74.0042361
+  },
+  {
+  "address": "20 Cardinal Hayes Place",
+  "venue": "Church of Saint Andrew",
+  "mtgday": "Wednesdays",
+  "mtgtime": "5:30 PM to 8:00 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7132514,
+  "lon": -74.002398
+  },
+  {
+  "address": "283 West Broadway",
+  "venue": "Tribeca 12 Building",
+  "mtgday": "Sundays",
+  "mtgtime": "11:00 AM to 8:00 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6344072,
+  "lon": -74.1170382
+  },
+  {
+  "address": "22 Barclay Street- basement chapel",
+  "venue": "St. Peter&apos;s Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:45 PM to 8:00 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7125016,
+  "lon": -74.0094639
+  },
+  {
+  "address": "49 Fulton Street",
+  "venue": "",
+  "mtgday": "Fridays",
+  "mtgtime": "7:30 PM to 8:00 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7080393,
+  "lon": -74.0042361
+  },
+  {
+  "address": "20 Cardinal Hayes Place",
+  "venue": "St. Andrew&apos;s Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "1:15 PM to 8:00 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7132514,
+  "lon": -74.002398
+  },
+  {
+  "address": "283 West Broadway",
+  "venue": "Hazelden Center",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:30 PM to 8:00 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6344072,
+  "lon": -74.1170382
+  },
+  {
+  "address": "283 West Broadway",
+  "venue": "Hazelden Center",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:45 PM to 8:00 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6344072,
+  "lon": -74.1170382
+  },
+  {
+  "address": "283 W. Broadway",
+  "venue": "Hazelden Center",
+  "mtgday": "Saturdays",
+  "mtgtime": "7:00 PM to 8:00 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7144166,
+  "lon": -73.9843646
+  },
+  {
+  "address": "273 Bowery",
+  "venue": "University Settlement",
+  "mtgday": "Fridays",
+  "mtgtime": "6:00 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7236736,
+  "lon": -73.9924832
+  },
+  {
+  "address": "232 West 11th Street",
+  "venue": "Manhattan Seventh-Day Adventist Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:15 PM to 7:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.736193,
+  "lon": -74.0028632
+  },
+  {
+  "address": "283 West Broadway",
+  "venue": "Hazelden Center",
+  "mtgday": "Saturdays",
+  "mtgtime": "12:00 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7144166,
+  "lon": -73.9843646
+  },
+  {
+  "address": "232 W. 11th Street",
+  "venue": "Seventh Day Adventist Church",
+  "mtgday": "Sundays",
+  "mtgtime": "6:30 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.736193,
+  "lon": -74.0028632
+  },
+  {
+  "address": "220 West Houston Street",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "10:30 AM to 7:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7286385,
+  "lon": -74.0045871
+  },
+  {
+  "address": "253 Center Street",
+  "venue": "Golden Bridge Yoga Center",
+  "mtgday": "Mondays",
+  "mtgtime": "5:15 PM to 7:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7206323,
+  "lon": -73.9979756
+  },
+  {
+  "address": "273 Bowery",
+  "venue": "University Settlement (The Chinatown YMCA)",
+  "mtgday": "Fridays",
+  "mtgtime": "6:45 PM to 7:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7236736,
+  "lon": -73.9924832
+  },
+  {
+  "address": "487 Hudson Street",
+  "venue": "St. Luke&apos;s Episcopal School",
+  "mtgday": "Mondays",
+  "mtgtime": "7:15 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7325966203121,
+  "lon": -74.0066606628545
+  },
+  {
+  "address": "292 Henry Street",
+  "venue": "St. Augustine&apos;s Church",
+  "mtgday": "Sundays",
+  "mtgtime": "3:00 PM to 7:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7137143,
+  "lon": -73.983033
+  },
+  {
+  "address": "232 West 11th Street",
+  "venue": "Manhattan Church of The Seventh-day Adventist",
+  "mtgday": "s",
+  "mtgtime": "12:00 AM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.736193,
+  "lon": -74.0028632
+  },
+  {
+  "address": "141 Henry Street",
+  "venue": "Church of Saint Theresa Rectory",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:00 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7134487,
+  "lon": -73.9906625
+  },
+  {
+  "address": "220 West Houston Street",
+  "venue": "",
+  "mtgday": "Mondays",
+  "mtgtime": "12:00 AM to 7:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7286385,
+  "lon": -74.0045871
+  },
+  {
+  "address": "83 Christopher Street (Red Door",
+  "venue": "St. John&apos;s Lutheran Church",
+  "mtgday": "Sundays",
+  "mtgtime": "12:30 PM to 7:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7335702,
+  "lon": -74.0037456
+  },
+  {
+  "address": "50 Perry Street",
+  "venue": "",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:30 AM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7354854,
+  "lon": -74.0031569
+  },
+  {
+  "address": "232 West 11th Street",
+  "venue": "Seventh Day Adventist Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:30 PM to 7:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.736193,
+  "lon": -74.0028632
+  },
+  {
+  "address": "224 Waverly Place",
+  "venue": "St. John&apos;s Episcopal Church",
+  "mtgday": "Sundays",
+  "mtgtime": "7:00 PM to 7:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7360657,
+  "lon": -74.0019452
+  },
+  {
+  "address": "154 Sullivan Street",
+  "venue": "St. Anthony&apos;s of Padua",
+  "mtgday": "Mondays",
+  "mtgtime": "7:30 AM to 7:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7273786,
+  "lon": -74.0017414
+  },
+  {
+  "address": "273 Bowery Street",
+  "venue": "Chinatown YMCA",
+  "mtgday": "Sundays",
+  "mtgtime": "7:30 AM to 7:00 PM",
+  "mtgtype": "Special",
+  "lat": 40.7236736,
+  "lon": -73.9924832
+  },
+  {
+  "address": "371 6th Avenue",
+  "venue": "St. Joseph&apos;s Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:00 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.6701581,
+  "lon": -73.9819879
+  },
+  {
+  "address": "155 Sullivan Street",
+  "venue": "St. Anthony of Padua Church",
+  "mtgday": "Fridays",
+  "mtgtime": "6:30 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7272525,
+  "lon": -74.0015782
+  },
+  {
+  "address": "7 East 10th Strert",
+  "venue": "The Bronfman Cernter @ NYU",
+  "mtgday": "Sundays",
+  "mtgtime": "11:00 AM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6482599,
+  "lon": -73.9704806
+  },
+  {
+  "address": "232 West 11th Street",
+  "venue": "Seventh Adventist Church",
+  "mtgday": "Mondays",
+  "mtgtime": "6:30 PM to 7:00 PM",
+  "mtgtype": "Special",
+  "lat": 40.736193,
+  "lon": -74.0028632
+  },
+  {
+  "address": "81 Christopher Street",
+  "venue": "St. John&apos;s Lutheran Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "8:00 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7335983,
+  "lon": -74.0035744
+  },
+  {
+  "address": "273 Bowery",
+  "venue": "University Settlement (The Chinatown YMCA)",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:00 PM to 7:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7236736,
+  "lon": -73.9924832
+  },
+  {
+  "address": "232 West 11th Street",
+  "venue": "Manhattan Seventh-Day Adventist Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:45 PM to 7:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.736193,
+  "lon": -74.0028632
+  },
+  {
+  "address": "232 West 11th Street",
+  "venue": "Manhattan Church of The Seventh-day Adventist",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:15 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.736193,
+  "lon": -74.0028632
+  },
+  {
+  "address": "83 Christopher Street",
+  "venue": "St. John&apos;s Lutheran Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:30 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7335702,
+  "lon": -74.0037456
+  },
+  {
+  "address": "220 West Houston Street",
+  "venue": "",
+  "mtgday": "Saturdays",
+  "mtgtime": "4:45 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7286385,
+  "lon": -74.0045871
+  },
+  {
+  "address": "273 Bowery",
+  "venue": "University Settlement @ Houston Street Center",
+  "mtgday": "Fridays",
+  "mtgtime": "6:15 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7236736,
+  "lon": -73.9924832
+  },
+  {
+  "address": "7 East 10th Street",
+  "venue": "N.Y.U Bronfman Center",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:15 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6482599,
+  "lon": -73.9704806
+  },
+  {
+  "address": "155 East 22nd Street",
+  "venue": "Gustavus Adolphus Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "12:15 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7384244,
+  "lon": -73.9840055
+  },
+  {
+  "address": "61 Fourth Avenue",
+  "venue": "Three Jewels Community Center",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:00 PM to 9:15 PM",
+  "mtgtype": "Special",
+  "lat": 40.7307719,
+  "lon": -73.9903164
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",
+  "mtgday": "Thursdays",
+  "mtgtime": "12:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "123 East 15th Street",
+  "venue": "Seafarers &amp; Intl House",
+  "mtgday": "Saturdays",
+  "mtgtime": "1:00 PM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7346341,
+  "lon": -73.9879773
+  },
+  {
+  "address": "61 Gramercy Park North",
+  "venue": "Calvary Church Parish House",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:30 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7387068,
+  "lon": -73.986572
+  },
+  {
+  "address": "155 East 22nd Street",
+  "venue": "Gustavus Adolphus Lutheran Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7384244,
+  "lon": -73.9840055
+  },
+  {
+  "address": "127 East 22nd Street",
+  "venue": "Mabel Bacon High School of the Future",
+  "mtgday": "Sundays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7390247,
+  "lon": -73.9854161
+  },
+  {
+  "address": "602 East 9th Street",
+  "venue": "Trinity Lower East Side Lutheran Parish",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7260409,
+  "lon": -73.9800393
+  },
+  {
+  "address": "125 West 14th Street",
+  "venue": "McBurney YMCA",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:45 PM to 9:15 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7379244,
+  "lon": -73.9976813
+  },
+  {
+  "address": "346 W. 20th Street",
+  "venue": "St. Peters Episcopal Church- Rectory",
+  "mtgday": "Tuesdays",
+  "mtgtime": "8:00 AM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7441452,
+  "lon": -74.0019191
+  },
+  {
+  "address": "125 West 14th Street",
+  "venue": "McBurney YMCA",
+  "mtgday": "Tuesdays",
+  "mtgtime": "12:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7379244,
+  "lon": -73.9976813
+  },
+  {
+  "address": "414 East 14th Street",
+  "venue": "Our Lady of Immaculate Conception",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:30 PM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7309298,
+  "lon": -73.9819876
+  },
+  {
+  "address": "119 Ninth Avenue",
+  "venue": "Fulton Senior Center",
+  "mtgday": "Mondays",
+  "mtgtime": "6:45 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7432442,
+  "lon": -74.0039393
+  },
+  {
+  "address": "202 West 24 Street",
+  "venue": "Christopher House",
+  "mtgday": "Saturdays",
+  "mtgtime": "4:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7449478,
+  "lon": -73.995862
+  },
+  {
+  "address": "28 Gramercy Park South",
+  "venue": "Brotherhood Synagogue",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7371499,
+  "lon": -73.9853123
+  },
+  {
+  "address": "50 East 7th Street",
+  "venue": "Middle Collegiate Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7276522,
+  "lon": -73.9875923
+  },
+  {
+  "address": "273 Bowery",
+  "venue": "University Settlement House",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7236736,
+  "lon": -73.9924832
+  },
+  {
+  "address": "802 Broadway",
+  "venue": "Grace Church Office Building",
+  "mtgday": "Mondays",
+  "mtgtime": "8:15 AM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7320395,
+  "lon": -73.991189
+  },
+  {
+  "address": "28 Grammercy Park South",
+  "venue": "Brothhood Synagogue",
+  "mtgday": "Mondays",
+  "mtgtime": "6:30 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7371499,
+  "lon": -73.9853123
+  },
+  {
+  "address": "209 East 16th Street",
+  "venue": "Saint George Episcopal Church",
+  "mtgday": "Mondays",
+  "mtgtime": "5:00 PM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7345135,
+  "lon": -73.9854432
+  },
+  {
+  "address": "44 2nd Avenue",
+  "venue": "Church of the Nativity",
+  "mtgday": "Sundays",
+  "mtgtime": "8:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7251086,
+  "lon": -73.9899858
+  },
+  {
+  "address": "229 West 14th Street",
+  "venue": "Our Lady of Guadalupe Church",
+  "mtgday": "Mondays",
+  "mtgtime": "8:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7392489,
+  "lon": -74.0008788
+  },
+  {
+  "address": "229 West 14th Street",
+  "venue": "Our Lady of Guadalupe Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "1:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7392489,
+  "lon": -74.0008788
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",
+  "mtgday": "Sundays",
+  "mtgtime": "12:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "28 Gramercy Park South",
+  "venue": "Brotherhood Synagogue",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7371499,
+  "lon": -73.9853123
+  },
+  {
+  "address": "208 W 13th Street",
+  "venue": "Lesbian, Gay, Bisexual, &amp; Transgender Community Center",
+  "mtgday": "Saturdays",
+  "mtgtime": "8:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "307 W. 26th St.",
+  "venue": "The Upright Citizens Brigade Theatre",
+  "mtgday": "Thursdays",
+  "mtgtime": "12:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7474685,
+  "lon": -73.9974137
+  },
+  {
+  "address": "343 West 25th Street",
+  "venue": "St. Columba Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.747411,
+  "lon": -73.9992698
+  },
+  {
+  "address": "80 St. Mark&apos;s Place",
+  "venue": "Theatre 80",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:00 AM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.6639307188879,
+  "lon": -73.9382749875207
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",
+  "mtgday": "Sundays",
+  "mtgtime": "6:45 PM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "51 East 25th Street",
+  "venue": "Intercare",
+  "mtgday": "Wednesdays",
+  "mtgtime": "10:00 AM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7419488,
+  "lon": -73.9861549
+  },
+  {
+  "address": "155 East 22nd Street",
+  "venue": "Gustavus Adolphus Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7384244,
+  "lon": -73.9840055
+  },
+  {
+  "address": "7 East 10th Street",
+  "venue": "Bronfman Center",
+  "mtgday": "Fridays",
+  "mtgtime": "12:30 PM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.6482599,
+  "lon": -73.9704806
+  },
+  {
+  "address": "315 West 22nd Street",
+  "venue": "German Evangelist Lutheran Church of St. Paul",
+  "mtgday": "Thursdays",
+  "mtgtime": "8:00 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7450587,
+  "lon": -73.9997029
+  },
+  {
+  "address": "15 Rutherford Place",
+  "venue": "Friends Meeting House",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7337834,
+  "lon": -73.985098
+  },
+  {
+  "address": "25 East 15th- Conference Room H",
+  "venue": "The Realization Center",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:00 PM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7361047,
+  "lon": -73.9914936
+  },
+  {
+  "address": "175 9th Avenue",
+  "venue": "General Theological Seminary",
+  "mtgday": "Fridays",
+  "mtgtime": "6:00 PM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.6717748,
+  "lon": -73.9913909
+  },
+  {
+  "address": "19 Union Square West",
+  "venue": "The Realization Center",
+  "mtgday": "Tuesdays",
+  "mtgtime": "8:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7360864,
+  "lon": -73.9912277
+  },
+  {
+  "address": "155 East 22nd Street",
+  "venue": "Gustavus Adolphus Church",
+  "mtgday": "Mondays",
+  "mtgtime": "6:45 PM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7384244,
+  "lon": -73.9840055
+  },
+  {
+  "address": "423 East 23rd Street",
+  "venue": "Veterans Administration Hospital",
+  "mtgday": "Saturdays",
+  "mtgtime": "9:00 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7368113,
+  "lon": -73.9772015
+  },
+  {
+  "address": "209 East 16th Street",
+  "venue": "St. George&apos;s Church",
+  "mtgday": "Mondays",
+  "mtgtime": "6:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7345135,
+  "lon": -73.9854432
+  },
+  {
+  "address": "411 East 12th Street",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "1:30 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.729824,
+  "lon": -73.982816
+  },
+  {
+  "address": "209 East 16th Street",
+  "venue": "St. George&apos;s Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:30 AM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.6452634,
+  "lon": -73.9641398
+  },
+  {
+  "address": "239 East 21st Street",
+  "venue": "Epiphany Roman Catholic Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:00 AM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7369141,
+  "lon": -73.9823276
+  },
+  {
+  "address": "12 West 12th Street",
+  "venue": "First Presbyterian Church",
+  "mtgday": "Fridays",
+  "mtgtime": "6:30 PM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7348062,
+  "lon": -73.9951634
+  },
+  {
+  "address": "44 2nd Avenue",
+  "venue": "Church of the Nativity",
+  "mtgday": "Sundays",
+  "mtgtime": "5:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7251086,
+  "lon": -73.9899858
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",
+  "mtgday": "Saturdays",
+  "mtgtime": "9:30 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "12 West 11th Street",
+  "venue": "Church of the Ascension Parish House",
+  "mtgday": "Mondays",
+  "mtgtime": "7:30 AM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7341868,
+  "lon": -73.9957178
+  },
+  {
+  "address": "116 West 11th Street",
+  "venue": "PS 41 Elementary School",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7355598,
+  "lon": -73.9990141
+  },
+  {
+  "address": "80 5th Avenue",
+  "venue": "",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:15 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7358709,
+  "lon": -73.9939317
+  },
+  {
+  "address": "116 W. 11th Street",
+  "venue": "P.S. 41 (see footnote re: temp location)",
+  "mtgday": "Sundays",
+  "mtgtime": "6:00 PM to 9:15 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7355598,
+  "lon": -73.9990141
+  },
+  {
+  "address": "155 East 22nd Street",
+  "venue": "Gustavus Adolphus Church",
+  "mtgday": "Sundays",
+  "mtgtime": "9:00 AM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7384244,
+  "lon": -73.9840055
+  },
+  {
+  "address": "319 Eastr 24th Street",
+  "venue": "East Midtown Plaza (Community Room H)",
+  "mtgday": "Sundays",
+  "mtgtime": "12:30 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.6639307188879,
+  "lon": -73.9382749875207
+  },
+  {
+  "address": "10 East Union Square",
+  "venue": "Beth Israel Hospital @ Karpas Cancer Center Library",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7348335,
+  "lon": -73.9897815
+  },
+  {
+  "address": "206-208 East 11th Street",
+  "venue": "All Saints Ukrainian Orthodox Church",
+  "mtgday": "Sundays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6639307188879,
+  "lon": -73.9382749875207
+  },
+  {
+  "address": "123 East 15th Street",
+  "venue": "Seafarers &amp; International House",
+  "mtgday": "Fridays",
+  "mtgtime": "7:30 PM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7346341,
+  "lon": -73.9879773
+  },
+  {
+  "address": "411 East 12th Street",
+  "venue": "",
+  "mtgday": "s",
+  "mtgtime": "12:00 AM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.729824,
+  "lon": -73.982816
+  },
+  {
+  "address": "125 West 14th Street",
+  "venue": "McBurney YMCA",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7379244,
+  "lon": -73.9976813
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "LGBT Community Center",
+  "mtgday": "Sundays",
+  "mtgtime": "4:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "10 Union Square East",
+  "venue": "Beth Israel Phillips Ambulatory Center",
+  "mtgday": "Fridays",
+  "mtgtime": "6:00 PM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7348335,
+  "lon": -73.9897815
+  },
+  {
+  "address": "155 West 22nd Street",
+  "venue": "St. Francis Residence",
+  "mtgday": "Sundays",
+  "mtgtime": "12:45 PM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7431787,
+  "lon": -73.9952777
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",
+  "mtgday": "Sundays",
+  "mtgtime": "4:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "12 West 12th Street",
+  "venue": "First Presbyterian Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:30 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7348062,
+  "lon": -73.9951634
+  },
+  {
+  "address": "20 Washington Square North",
+  "venue": "The Caring Community",
+  "mtgday": "Thursdays",
+  "mtgtime": "3:30 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7319436,
+  "lon": -73.9977667
+  },
+  {
+  "address": "344 East 14th Street",
+  "venue": "14th Street Y",
+  "mtgday": "Sundays",
+  "mtgtime": "10:00 AM to 9:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7314102,
+  "lon": -73.9832013
+  },
+  {
+  "address": "155 West 22nd Street",
+  "venue": "St. Francis Residence",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7431787,
+  "lon": -73.9952777
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "602 East 9th Street",
+  "venue": "Trinity Lutheran Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 PM to 9:15 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7260409,
+  "lon": -73.9800393
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "Gay, Lesbian, Bi-Sexual &amp; Transgender Community Center",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "208 West 13th Street",
+  "venue": "Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7381228,
+  "lon": -74.0010304
+  },
+  {
+  "address": "19 Union Square West",
+  "venue": "Realization Center",
+  "mtgday": "Saturdays",
+  "mtgtime": "11:00 AM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7360864,
+  "lon": -73.9912277
+  },
+  {
+  "address": "173 East 3rd Street- basement",
+  "venue": "Most Holy Redeemer Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 9:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7233431,
+  "lon": -73.9843062
+  },
+  {
+  "address": "50 East 7th Street",
+  "venue": "Middle Collegiate Church ",
+  "mtgday": "Fridays",
+  "mtgtime": "8:00 PM to 9:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7276522,
+  "lon": -73.9875923
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Sundays",
+  "mtgtime": "4:00 PM to 5:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "303 West 42nd Street",
+  "venue": "",
+  "mtgday": "Mondays",
+  "mtgtime": "9:15 PM to 5:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7575385,
+  "lon": -73.9901368
+  },
+  {
+  "address": "303 West 42nd Street",
+  "venue": "",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:00 AM to 5:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7575385,
+  "lon": -73.9901368
+  },
+  {
+  "address": "305 7th Avenue",
+  "venue": "S.A.G.E.",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:00 PM to 5:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7467107,
+  "lon": -73.9935208
+  },
+  {
+  "address": "1 West 53rd Street",
+  "venue": "Saint Thomas Church",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 5:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7608523,
+  "lon": -73.9765938
+  },
+  {
+  "address": "303 West 42nd Street",
+  "venue": "",
+  "mtgday": "Mondays",
+  "mtgtime": "12:00 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7575385,
+  "lon": -73.9901368
+  },
+  {
+  "address": "133 West 46th Street",
+  "venue": "St. Mary the Virgin Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:30 AM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6589343,
+  "lon": -73.9348705
+  },
+  {
+  "address": "441 West 26th Street",
+  "venue": "Hudson Guild",
+  "mtgday": "Saturdays",
+  "mtgtime": "3:00 PM to 5:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7495486,
+  "lon": -74.0015106
+  },
+  {
+  "address": "446 West 33rd Street",
+  "venue": "GMHC",
+  "mtgday": "Tuesdays",
+  "mtgtime": "8:00 PM to 5:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.753496,
+  "lon": -73.9989428
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Clubhouse",
+  "mtgday": "Tuesdays",
+  "mtgtime": "9:15 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Mondays",
+  "mtgtime": "1:30 PM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Sundays",
+  "mtgtime": "2:45 PM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "339 West 47th Street",
+  "venue": "The Actor&apos;s Temple",
+  "mtgday": "Wednesdays",
+  "mtgtime": "5:00 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7612077,
+  "lon": -73.9891128
+  },
+  {
+  "address": "303 West 42nd St Rm 306",
+  "venue": "",
+  "mtgday": "Fridays",
+  "mtgtime": "4:30 PM to 5:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7575385,
+  "lon": -73.9901368
+  },
+  {
+  "address": "139 West 31st Street",
+  "venue": "St. Francis of Assisi Education Center",
+  "mtgday": "Mondays",
+  "mtgtime": "12:00 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.647412,
+  "lon": -73.9480599
+  },
+  {
+  "address": "422 West 57th Street",
+  "venue": "Trinity Presbyterian Church",
+  "mtgday": "Sundays",
+  "mtgtime": "5:00 PM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7682311,
+  "lon": -73.9868768
+  },
+  {
+  "address": "211 West 30th Street",
+  "venue": "St. John&apos;s Hall",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:00 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7486793956479,
+  "lon": -73.9927286472649
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Saturdays",
+  "mtgtime": "12:00 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "1 West 53rd Street",
+  "venue": "St. Thomas Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:00 AM to 5:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7608523,
+  "lon": -73.9765938
+  },
+  {
+  "address": "422 West 57th Street",
+  "venue": "Trinity Presbyterian Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "12:00 PM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7682311,
+  "lon": -73.9868768
+  },
+  {
+  "address": "7 West 55th Street",
+  "venue": "Fifth Av Presbyterian Church",
+  "mtgday": "s",
+  "mtgtime": "12:00 AM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7618823,
+  "lon": -73.9751297
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:30 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "729 7th Avenue",
+  "venue": "The Actors Fund of America",
+  "mtgday": "Thursdays",
+  "mtgtime": "5:30 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7601119,
+  "lon": -73.9837538
+  },
+  {
+  "address": "538 West 47th Street",
+  "venue": "Apartment Building",
+  "mtgday": "Mondays",
+  "mtgtime": "8:00 PM to 5:00 PM",
+  "mtgtype": " Sp = Spanish speaking group \n\t\t\t \t\t\t\n                    \t\n                    \t\n\t\t\t\t  \t    Wednesdays From  8:00 PM to 9:00 PM ",
+  "lat": 40.7634021,
+  "lon": -73.9948352
+  },
+  {
+  "address": "1000 Tenth Avenue",
+  "venue": "Mount Sinai - Roosevelt Hospital",
+  "mtgday": "Mondays",
+  "mtgtime": "7:30 PM to 5:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7700536177104,
+  "lon": -73.9877635987168
+  },
+  {
+  "address": "303 West 42nd Street",
+  "venue": "",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 PM to 5:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7575385,
+  "lon": -73.9901368
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Mondays",
+  "mtgtime": "9:15 PM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "307 West 26th Street",
+  "venue": "Upright Citizens Brigade Theatre",
+  "mtgday": "Wednesdays",
+  "mtgtime": "12:00 PM to 5:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7474685,
+  "lon": -73.9974137
+  },
+  {
+  "address": "405 West 59th Street",
+  "venue": "St. Paul&apos;s Episcopal Parish House",
+  "mtgday": "Wednesdays",
+  "mtgtime": "1:00 PM to 5:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7697538,
+  "lon": -73.9857965
+  },
+  {
+  "address": "303 West 42nd Street",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "12:00 AM to 5:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7575385,
+  "lon": -73.9901368
+  },
+  {
+  "address": "422 W. 57th St.",
+  "venue": "Trinity Presbyterian Church ",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7682311,
+  "lon": -73.9868768
+  },
+  {
+  "address": "133 West 46th Street",
+  "venue": "St. Mary the Virgin Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:00 AM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.6589343,
+  "lon": -73.9348705
+  },
+  {
+  "address": "133 West 46th Street",
+  "venue": "St. Mary the Virgin Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:00 AM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6589343,
+  "lon": -73.9348705
+  },
+  {
+  "address": "303 West 42nd Street",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "10:30 AM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7575385,
+  "lon": -73.9901368
+  },
+  {
+  "address": "296 9th Avenue",
+  "venue": "Holy Apostles Church Rectory",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:15 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7493642017494,
+  "lon": -73.9991233310954
+  },
+  {
+  "address": "139 West 31st Street",
+  "venue": "St. Francis of Assisi Center",
+  "mtgday": "Sundays",
+  "mtgtime": "6:00 PM to 5:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.647412,
+  "lon": -73.9480599
+  },
+  {
+  "address": "1 West 53rd Street",
+  "venue": "St. Thomas Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "12:30 PM to 5:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7608523,
+  "lon": -73.9765938
+  },
+  {
+  "address": "484 West 43rd Street",
+  "venue": "Manhattan Plaza Health Club",
+  "mtgday": "Saturdays",
+  "mtgtime": "7:00 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7599913,
+  "lon": -73.9948326
+  },
+  {
+  "address": "7 West 55th Street",
+  "venue": "Fifth Av Presbyterian Church",
+  "mtgday": "Fridays",
+  "mtgtime": "12:30 PM to 5:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7618823,
+  "lon": -73.9751297
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Thursdays",
+  "mtgtime": "9:15 PM to 5:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Saturdays",
+  "mtgtime": "5:30 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "4 West 43rd Street",
+  "venue": "The Learning Center",
+  "mtgday": "Mondays",
+  "mtgtime": "12:30 AM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7543885,
+  "lon": -73.9812083
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Saturdays",
+  "mtgtime": "9:15 PM to 5:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "296 Ninth Avenue",
+  "venue": "Church of The Holy Apostles",
+  "mtgday": "Fridays",
+  "mtgtime": "6:30 PM to 5:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7493642017494,
+  "lon": -73.9991233310954
+  },
+  {
+  "address": "1 West 53rd Street",
+  "venue": "St. Thomas Church Parish House",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:45 AM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7608523,
+  "lon": -73.9765938
+  },
+  {
+  "address": "210 West 31st Street",
+  "venue": "St. John the Baptist Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "12:00 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6560325,
+  "lon": -73.9999704
+  },
+  {
+  "address": "422 West 57th Street",
+  "venue": "Trinity Presbyterian Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 5:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7682311,
+  "lon": -73.9868768
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Sundays",
+  "mtgtime": "9:15 PM to 5:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "134 West 29th Street - 2nd floor Studio 203",
+  "venue": "",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:00 PM to 5:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7472463,
+  "lon": -73.9917061
+  },
+  {
+  "address": "1000 Tenth Avenue",
+  "venue": "Mount Sinai - Roosevelt Hospital",
+  "mtgday": "Fridays",
+  "mtgtime": "7:30 PM to 5:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7700536177104,
+  "lon": -73.9877635987168
+  },
+  {
+  "address": "446 West 33rd Street",
+  "venue": "GMHC",
+  "mtgday": "Fridays",
+  "mtgtime": "6:30 PM to 5:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.753496,
+  "lon": -73.9989428
+  },
+  {
+  "address": "423 West 46th Street",
+  "venue": "St. Clements Church",
+  "mtgday": "Sundays",
+  "mtgtime": "7:30 PM to 5:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.6483729,
+  "lon": -74.009462
+  },
+  {
+  "address": "252 West 46th Street",
+  "venue": "46th Street Club House",
+  "mtgday": "Fridays",
+  "mtgtime": "9:15 PM to 5:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7593831,
+  "lon": -73.9872329
+  },
+  {
+  "address": "122 East 37th Street",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "6:15 PM to 7:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7483929,
+  "lon": -73.9787906
+  },
+  {
+  "address": "30 East 35th Street",
+  "venue": "",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 AM to 7:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7496221,
+  "lon": -73.9855348
+  },
+  {
+  "address": "350 East 56th Street",
+  "venue": "Cathedral High School",
+  "mtgday": "Mondays",
+  "mtgtime": "5:45 PM to 7:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.757654,
+  "lon": -73.963834
+  },
+  {
+  "address": "619 Lexington Avenue",
+  "venue": "St. Peter&apos;s Lutheran Church @ Citicorp Center",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:30 AM to 7:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7588016,
+  "lon": -73.9704542
+  },
+  {
+  "address": "122 East 37th Street",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "12:45 PM to 7:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7483929,
+  "lon": -73.9787906
+  },
+  {
+  "address": "28 East 35th Street",
+  "venue": "J.H. Holmes Community House",
+  "mtgday": "Mondays",
+  "mtgtime": "12:15 PM to 7:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7496065,
+  "lon": -73.9854965
+  },
+  {
+  "address": "350 East 56th Street",
+  "venue": "Cathedral High School ",
+  "mtgday": "Sundays",
+  "mtgtime": "5:30 PM to 7:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.757654,
+  "lon": -73.963834
+  },
+  {
+  "address": "283 Lexington Avenue",
+  "venue": "Soldiers, Sailors, Marines &amp; Airmen&apos;s Club",
+  "mtgday": "Mondays",
+  "mtgtime": "5:30 PM to 7:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7479969,
+  "lon": -73.9783809
+  },
+  {
+  "address": "122 East 37th Street",
+  "venue": "",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:00 PM to 7:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7483929,
+  "lon": -73.9787906
+  },
+  {
+  "address": "619 Lexington Avenue",
+  "venue": "St. Peter&apos;s Lutheran Church @ CitiCorp Center",
+  "mtgday": "Mondays",
+  "mtgtime": "5:30 PM to 7:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.6894374,
+  "lon": -73.9367705
+  },
+  {
+  "address": "141 East 43rd Street",
+  "venue": "Saint Agnes Church",
+  "mtgday": "Mondays",
+  "mtgtime": "12:30 PM to 7:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7518754,
+  "lon": -73.9747248
+  },
+  {
+  "address": "122 E 37TH St.",
+  "venue": "MUSTARD SEED",
+  "mtgday": "Wednesdays",
+  "mtgtime": "12:30 PM to 7:15 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7483929,
+  "lon": -73.9787906
+  },
+  {
+  "address": "122 East 37th Street",
+  "venue": "Mustard Seed",
+  "mtgday": "Saturdays",
+  "mtgtime": "7:30 PM to 7:15 PM",
+  "mtgtype": "Special",
+  "lat": 40.7483929,
+  "lon": -73.9787906
+  },
+  {
+  "address": "141 East 43rd Street",
+  "venue": "St. Agnes Church",
+  "mtgday": "Mondays",
+  "mtgtime": "6:15 PM to 7:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7518754,
+  "lon": -73.9747248
+  },
+  {
+  "address": "209 Madison Avenue",
+  "venue": "Church of the Incarnation",
+  "mtgday": "Mondays",
+  "mtgtime": "6:15 PM to 7:15 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7486487,
+  "lon": -73.9821254
+  },
+  {
+  "address": "122 East 37th Street",
+  "venue": "",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:15 AM to 7:15 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7483929,
+  "lon": -73.9787906
+  },
+  {
+  "address": "619 Lexington Avenue",
+  "venue": "St. Peter&apos;s Lutheran Church @ CitiCorp Center",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 AM to 7:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6894374,
+  "lon": -73.9367705
+  },
+  {
+  "address": "240 East 31st Street",
+  "venue": "Church of the Good Shepherd",
+  "mtgday": "Saturdays",
+  "mtgtime": "4:00 PM to 7:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6447249,
+  "lon": -73.948097
+  },
+  {
+  "address": "114 East 35th Street",
+  "venue": "The New York New Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:00 AM to 7:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7473169,
+  "lon": -73.9800724
+  },
+  {
+  "address": "230 East 60th Street (Basement)",
+  "venue": "ALL SAINTS CHURCH",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 AM to 7:15 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7615607,
+  "lon": -73.9649474
+  },
+  {
+  "address": "244 East 58th Street",
+  "venue": "Caron Foundation",
+  "mtgday": "Tuesdays",
+  "mtgtime": "5:30 PM to 7:15 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.6492925,
+  "lon": -73.9225408
+  },
+  {
+  "address": "619 Lexington Avenue",
+  "venue": "St. Peter&apos;s Lutheran Church @ CitiCorp Center",
+  "mtgday": "Thursdays",
+  "mtgtime": "12:30 PM to 7:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6894374,
+  "lon": -73.9367705
+  },
+  {
+  "address": "325 Park Avenue",
+  "venue": "St. Bartholomew&apos;s Church",
+  "mtgday": "Fridays",
+  "mtgtime": "12:30 PM to 7:15 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7574552,
+  "lon": -73.9733937
+  },
+  {
+  "address": "236 EAST 31st STREET",
+  "venue": "CHURCH OF THE GOOD SHEPARD",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:00 PM to 7:15 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.74314,
+  "lon": -73.9781525
+  },
+  {
+  "address": "308 East 55th Street",
+  "venue": "Conservative Synagogue",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:15 PM to 7:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.6501686,
+  "lon": -73.9254937
+  },
+  {
+  "address": "244 East 58th Street",
+  "venue": "The Caron Foundation",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:45 PM to 7:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.6492925,
+  "lon": -73.9225408
+  },
+  {
+  "address": "244 East 58th Street",
+  "venue": "Caron Foundation",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:15 PM to 7:15 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7600925,
+  "lon": -73.9653811
+  },
+  {
+  "address": "109 East 50th Street",
+  "venue": "",
+  "mtgday": "Wednesdays",
+  "mtgtime": "5:45 PM to 7:15 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7569178,
+  "lon": -73.97309
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Mondays",
+  "mtgtime": "3:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "120 West 69th Street",
+  "venue": "Christ &amp; St. Stephen&apos;s Church",
+  "mtgday": "Fridays",
+  "mtgtime": "7:45 PM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7756982,
+  "lon": -73.9810333
+  },
+  {
+  "address": "422 West 57th Street",
+  "venue": "Trinity Presbyterian Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7682311,
+  "lon": -73.9868768
+  },
+  {
+  "address": "164 West 74th Street",
+  "venue": "Phoenix House",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7796117,
+  "lon": -73.9801807
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Fridays",
+  "mtgtime": "9:30 PM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "144 West 90th Street",
+  "venue": "St. Gregory&apos;s Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "1:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7898068,
+  "lon": -73.9723737
+  },
+  {
+  "address": "141 West 73rd Street",
+  "venue": "Hamilton House",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7789036,
+  "lon": -73.9799533
+  },
+  {
+  "address": "4 West 76th Street. Meeting in the gym.",
+  "venue": "Fourth Universalist Church",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7788736,
+  "lon": -73.9745891
+  },
+  {
+  "address": "221 West 107th Street",
+  "venue": "Church of the Ascension",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:15 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.8017795,
+  "lon": -73.9665393
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:30 PM to 4:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "215 West 82nd Street",
+  "venue": "Holy Trinity Rectory",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7852818734432,
+  "lon": -73.9771060064311
+  },
+  {
+  "address": "601 West 114th Street",
+  "venue": "Broadway Presbyterian Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "12:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8069051,
+  "lon": -73.965058
+  },
+  {
+  "address": "Central Park West &amp; 76th Street - basement gymnasium",
+  "venue": "Universalist Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "8:15 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6639307188879,
+  "lon": -73.9382749875207
+  },
+  {
+  "address": "5 West 63rd Street",
+  "venue": "West Side YMCA at 63rd Street",
+  "mtgday": "Mondays",
+  "mtgtime": "7:30 PM to 4:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7708644,
+  "lon": -73.9806413
+  },
+  {
+  "address": "4 West 76th Street",
+  "venue": "Universalist Church",
+  "mtgday": "Fridays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7788736,
+  "lon": -73.9745891
+  },
+  {
+  "address": "160 Central Park West",
+  "venue": "Fourth Universalist Society",
+  "mtgday": "Sundays",
+  "mtgtime": "6:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7787712,
+  "lon": -73.9743066
+  },
+  {
+  "address": "152 West 66th Street",
+  "venue": "Good Shepherd Faith Church",
+  "mtgday": "Sundays",
+  "mtgtime": "6:15 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7744405,
+  "lon": -73.9838262
+  },
+  {
+  "address": "3 West 95th Street",
+  "venue": "Second Presbyterian Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "5:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7912379,
+  "lon": -73.9655109
+  },
+  {
+  "address": "251 West 80th Street",
+  "venue": "All Angels Church",
+  "mtgday": "Fridays",
+  "mtgtime": "7:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7848713,
+  "lon": -73.9800524
+  },
+  {
+  "address": "111 West 71st Street",
+  "venue": "Hargrave House",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 AM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7769996,
+  "lon": -73.9796679
+  },
+  {
+  "address": "5 West 63rd Street",
+  "venue": "West Side YMCA",
+  "mtgday": "Sundays",
+  "mtgtime": "8:00 AM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7708644,
+  "lon": -73.9806413
+  },
+  {
+  "address": "5 West 63rd Street",
+  "venue": "West Side YMCA",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:30 AM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7708644,
+  "lon": -73.9806413
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Mondays",
+  "mtgtime": "6:00 AM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "26 West 84th Street",
+  "venue": "Church of St. Matthew and St. Timothy",
+  "mtgday": "Fridays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7844228,
+  "lon": -73.9716168
+  },
+  {
+  "address": "200 West 97th Street",
+  "venue": "Holy Name School",
+  "mtgday": "Sundays",
+  "mtgtime": "4:30 PM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7946604892952,
+  "lon": -73.9699229082063
+  },
+  {
+  "address": "218 West 108th Street",
+  "venue": "Grace House",
+  "mtgday": "Mondays",
+  "mtgtime": "7:30 PM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.8021037,
+  "lon": -73.9658778
+  },
+  {
+  "address": "125 West 104th Street",
+  "venue": "Iglesia Metodista Grace",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 PM to 4:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7985878,
+  "lon": -73.9649967
+  },
+  {
+  "address": "141 West 73rd Street",
+  "venue": "Hamilton House",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7789036,
+  "lon": -73.9799533
+  },
+  {
+  "address": "236 West 73rd Street",
+  "venue": "Rutgers Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:00 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7796494,
+  "lon": -73.982239
+  },
+  {
+  "address": "165 West 105th Street",
+  "venue": "West End Presbyterian Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7996866,
+  "lon": -73.9657282
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Sundays",
+  "mtgtime": "5:45 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church Rectory",
+  "mtgday": "Fridays",
+  "mtgtime": "1:00 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "2504 Broadway",
+  "venue": "Advent Lutheran Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7927534,
+  "lon": -73.972842
+  },
+  {
+  "address": "405 West 114th Street",
+  "venue": "Church of Notre Dame",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7946083,
+  "lon": -73.9358608
+  },
+  {
+  "address": "368 West End Ave",
+  "venue": "West End Collegiate Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.783225,
+  "lon": -73.9817572
+  },
+  {
+  "address": "225 West 99th Street",
+  "venue": "St. Michael&apos;s Parish House",
+  "mtgday": "Mondays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7964452,
+  "lon": -73.9694226
+  },
+  {
+  "address": "251 West 100th Street",
+  "venue": "Anshe Chesed Synagogue",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7977791,
+  "lon": -73.9709911
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Sundays",
+  "mtgtime": "10:00 PM to 4:00 PM",
+  "mtgtype": " T = Tradition ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "26 West 84th Street",
+  "venue": "Church of St. Matthew &amp; St. Timothy",
+  "mtgday": "s",
+  "mtgtime": "12:00 AM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7844228,
+  "lon": -73.9716168
+  },
+  {
+  "address": "5 West 63rd Street",
+  "venue": "West Side YMCA",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7708644,
+  "lon": -73.9806413
+  },
+  {
+  "address": "552 West End Avenue",
+  "venue": "St. Ignatius Church",
+  "mtgday": "Sundays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.78931,
+  "lon": -73.9773114
+  },
+  {
+  "address": "164 West 74 Street",
+  "venue": "Phoenix House",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7796117,
+  "lon": -73.9801807
+  },
+  {
+  "address": "340 West 85th Street",
+  "venue": "Volunteers of America",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7887343,
+  "lon": -73.9798639
+  },
+  {
+  "address": "368 West End Avenue",
+  "venue": "West End Collegiate Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.783225,
+  "lon": -73.9817572
+  },
+  {
+  "address": "152 West 71st Street",
+  "venue": "Blessed Sacrament Church Rectory",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7774259,
+  "lon": -73.9812051
+  },
+  {
+  "address": "5 West 63rd Street",
+  "venue": "West Side YMCA",
+  "mtgday": "Sundays",
+  "mtgtime": "10:30 AM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7708644,
+  "lon": -73.9806413
+  },
+  {
+  "address": "131 West 72nd Street",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "12:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7780247,
+  "lon": -73.9798344
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "3:30 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "152 West 71st Street",
+  "venue": "Blessed Sacrament Church Rectory",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:00 AM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7774259,
+  "lon": -73.9812051
+  },
+  {
+  "address": "30 West 68th Street",
+  "venue": "Stephen Wise Free Synagogue",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:15 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7740859,
+  "lon": -73.979107
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "4:45 PM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "263 West 86th Street",
+  "venue": "Church of St. Paul &amp; St. Andrew",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7887918,
+  "lon": -73.9772649
+  },
+  {
+  "address": "306 West 102nd Street",
+  "venue": "Addiction Institute",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7992334,
+  "lon": -73.9710638
+  },
+  {
+  "address": "152 West 71st Street",
+  "venue": "Blessed Sacrament Church Rectory",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7774259,
+  "lon": -73.9812051
+  },
+  {
+  "address": "26 West 84th Street",
+  "venue": "Church of St.Matthew &amp; St. Timothy",
+  "mtgday": "Saturdays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7844228,
+  "lon": -73.9716168
+  },
+  {
+  "address": "595 Columbus Avenue",
+  "venue": "Goddard Riverside Community Center",
+  "mtgday": "Saturdays",
+  "mtgtime": "5:00 PM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7879892,
+  "lon": -73.9707609
+  },
+  {
+  "address": "306 West 102nd Street",
+  "venue": "Trinity Halfway House",
+  "mtgday": "Wednesdays",
+  "mtgtime": "9:00 AM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7992334,
+  "lon": -73.9710638
+  },
+  {
+  "address": "213 West 82nd Street",
+  "venue": "Holy Trinity Church",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7760114,
+  "lon": -73.9550312
+  },
+  {
+  "address": "152 West 71st Street",
+  "venue": "Blessed Sacrament (Rectory)",
+  "mtgday": "Thursdays",
+  "mtgtime": "12:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7774259,
+  "lon": -73.9812051
+  },
+  {
+  "address": "152 west 71st street",
+  "venue": "",
+  "mtgday": "Mondays",
+  "mtgtime": "12:00 PM to 4:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7774259,
+  "lon": -73.9812051
+  },
+  {
+  "address": "152 West 71st Street",
+  "venue": "Blessed Sacrament (Rectory)",
+  "mtgday": "Mondays",
+  "mtgtime": "12:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7774259,
+  "lon": -73.9812051
+  },
+  {
+  "address": "160 Central Park West",
+  "venue": "Universalist Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:30 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7787712,
+  "lon": -73.9743066
+  },
+  {
+  "address": "207 West 96th Street",
+  "venue": "Holy Name Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:00 PM to 4:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7945161,
+  "lon": -73.9710419
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "7:30 AM to 8:30 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "48 East 80th Street",
+  "venue": "Manhattan Church of Christ",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " T = Tradition ",
+  "lat": 40.7767263,
+  "lon": -73.9612366
+  },
+  {
+  "address": "184 East 76th Street",
+  "venue": "St. Jean Baptiste Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:00 PM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7729024777959,
+  "lon": -73.960301601538
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Mondays",
+  "mtgtime": "2:30 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "1393 York Avenue",
+  "venue": "Church of the Epiphany",
+  "mtgday": "Mondays",
+  "mtgtime": "7:15 PM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.768415,
+  "lon": -73.9528341
+  },
+  {
+  "address": "520 Park Avenue",
+  "venue": "Christ United Methodist Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " O = Open ",
+  "lat": 40.6968483,
+  "lon": -73.9549879
+  },
+  {
+  "address": "337 E. 74th St.",
+  "venue": "Archdiocian Cathedral of the Holy Trinity",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7696836,
+  "lon": -73.9561119
+  },
+  {
+  "address": "1157 Lexington Avenue",
+  "venue": "All Souls Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:00 PM to 8:30 AM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7754455,
+  "lon": -73.9583638
+  },
+  {
+  "address": "420 East 76th Street",
+  "venue": "Gracie Square Hospital",
+  "mtgday": "Fridays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7697705,
+  "lon": -73.9529077
+  },
+  {
+  "address": "230 East 90th Street",
+  "venue": "Our Lady of Good Counsel Church",
+  "mtgday": "Sundays",
+  "mtgtime": "3:30 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.780841,
+  "lon": -73.9510956
+  },
+  {
+  "address": "65 East 89th Street",
+  "venue": "St. Thomas More Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:15 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.78259,
+  "lon": -73.9566571
+  },
+  {
+  "address": "865 Madison Avenue",
+  "venue": "St. James Episcopal Church",
+  "mtgday": "Sundays",
+  "mtgtime": "5:00 PM to 8:30 AM",
+  "mtgtype": " O = Open ",
+  "lat": 40.7713251,
+  "lon": -73.9655852
+  },
+  {
+  "address": "1296 Lexington Avenue",
+  "venue": "Immanuel Lutheran Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:15 AM to 8:30 AM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.780135833909,
+  "lon": -73.9552304898083
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Sundays",
+  "mtgtime": "9:00 AM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "1157 Lexington Avenue",
+  "venue": "All Souls Uniterian Church",
+  "mtgday": "Fridays",
+  "mtgtime": "7:30 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7754455,
+  "lon": -73.9583638
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Fridays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Fridays",
+  "mtgtime": "8:00 PM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "65 East 89th Street",
+  "venue": "St. Thomas More Church Rectory",
+  "mtgday": "Fridays",
+  "mtgtime": "6:15 PM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.78259,
+  "lon": -73.9566571
+  },
+  {
+  "address": "65 East 89th Street - Rectory basement",
+  "venue": "Church of Saint Thomas Moore",
+  "mtgday": "Mondays",
+  "mtgtime": "6:15 PM to 8:30 AM",
+  "mtgtype": "Special",
+  "lat": 40.78259,
+  "lon": -73.9566571
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "12:30 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "135 East 96th Street",
+  "venue": "St. Francis de Sales Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7862757,
+  "lon": -73.951491
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Presbyterian Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "11:00 AM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "2 East 90th Street",
+  "venue": "Church of the Heavenly Rest",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7836928,
+  "lon": -73.9578694
+  },
+  {
+  "address": "1157 Lexington Avenue",
+  "venue": "All Souls Uniterian Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7754455,
+  "lon": -73.9583638
+  },
+  {
+  "address": "420 East 76th Street",
+  "venue": "Gracie Square Hospital",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7697705,
+  "lon": -73.9529077
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Presbyterian Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "11:00 AM to 8:30 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "1285 Madison Avenue",
+  "venue": "Philomathist Center",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7843189,
+  "lon": -73.9560924
+  },
+  {
+  "address": "408 East 82nd Street",
+  "venue": "St. Stephen of Hungary Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7738528,
+  "lon": -73.9504699
+  },
+  {
+  "address": "48 East 84th Street",
+  "venue": "St. Ignatius Loyola School",
+  "mtgday": "Saturdays",
+  "mtgtime": "3:15 PM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7790604,
+  "lon": -73.9588788
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:15 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "9:30 AM to 8:30 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "125 East 85th Street",
+  "venue": "Congregational Kehilath Jeshurun",
+  "mtgday": "Mondays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7790514,
+  "lon": -73.956386
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:15 PM to 8:30 AM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "9:30 AM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "865 Madison Avenue",
+  "venue": "St. James Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "12:30 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7713251,
+  "lon": -73.9655852
+  },
+  {
+  "address": "62 East 92nd Street",
+  "venue": "Brick Church Parish House",
+  "mtgday": "Fridays",
+  "mtgtime": "6:45 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7842393,
+  "lon": -73.955258
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "11:00 AM to 8:30 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "420 East 87th Street",
+  "venue": "St. Joseph&apos;s School",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7770465,
+  "lon": -73.9479432
+  },
+  {
+  "address": "593 Park Avenue",
+  "venue": "Central Presbyterian Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.765841,
+  "lon": -73.9673386
+  },
+  {
+  "address": "65 East 89th Street",
+  "venue": "St. Thomas More Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.78259,
+  "lon": -73.9566571
+  },
+  {
+  "address": "865 Madison Avenue",
+  "venue": "St. James Episcopal Church",
+  "mtgday": "Mondays",
+  "mtgtime": "6:00 PM to 8:30 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7713251,
+  "lon": -73.9655852
+  },
+  {
+  "address": "Church of the Good Shepard",
+  "venue": "",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6639307188879,
+  "lon": -73.9382749875207
+  },
+  {
+  "address": "413 East 79th Street",
+  "venue": "St. Monica&apos;s Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:00 AM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7721222,
+  "lon": -73.9517608
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "9:15 AM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "310 East 67th Street",
+  "venue": "New York Blood Center",
+  "mtgday": "Saturdays",
+  "mtgtime": "10:00 AM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7651821,
+  "lon": -73.9599207
+  },
+  {
+  "address": "331 E 70th St",
+  "venue": "Lenox Hill Neighborhood House",
+  "mtgday": "Sundays",
+  "mtgtime": "10:00 AM to 8:30 AM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.766948,
+  "lon": -73.9577722
+  },
+  {
+  "address": "411 East 68th Street",
+  "venue": "Church of St. Catherine of Siena",
+  "mtgday": "Saturdays",
+  "mtgtime": "6:30 PM to 8:30 AM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7651081,
+  "lon": -73.957215
+  },
+  {
+  "address": "2 East 90th Street",
+  "venue": "Church of the Heavenly Rest",
+  "mtgday": "Tuesdays",
+  "mtgtime": "12:00 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7836928,
+  "lon": -73.9578694
+  },
+  {
+  "address": "341 East 87th Street",
+  "venue": "Holy Trinity Church",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 8:30 AM",
+  "mtgtype": " S = Step ",
+  "lat": 40.7780211,
+  "lon": -73.9497263
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:15 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "8:00 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "351 East 74th Street",
+  "venue": "Jan Hus Church",
+  "mtgday": "Thursdays",
+  "mtgtime": "8:00 PM to 8:30 AM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.7694194,
+  "lon": -73.9555151
+  },
+  {
+  "address": "109 West 129th Street",
+  "venue": "SRO Building",
+  "mtgday": "Wednesdays",
+  "mtgtime": "6:00 PM to 7:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.8106798,
+  "lon": -73.944244
+  },
+  {
+  "address": "240 West 145th Street",
+  "venue": "Union Baptist Church",
+  "mtgday": "Wednesdays",
+  "mtgtime": "10:00 AM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8222189,
+  "lon": -73.9408621
+  },
+  {
+  "address": "469 West 142nd Street",
+  "venue": "Our Lady of Lourdes Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "7:30 AM to 7:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.8232166,
+  "lon": -73.9484769
+  },
+  {
+  "address": "204 West 134th Street",
+  "venue": "St. Phillip Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "11:30 AM to 7:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.8147959,
+  "lon": -73.9448542
+  },
+  {
+  "address": "2044 Adam Clayton Powell Blvd.",
+  "venue": "Spiritual Renewal Church",
+  "mtgday": "Mondays",
+  "mtgtime": "12:15 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8072583,
+  "lon": -73.9499047
+  },
+  {
+  "address": "469 West 142nd Street",
+  "venue": "",
+  "mtgday": "Thursdays",
+  "mtgtime": "8:00 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8232166,
+  "lon": -73.9484769
+  },
+  {
+  "address": "521 W 126th St",
+  "venue": "St. Mary&apos;s Episcopal",
+  "mtgday": "Mondays",
+  "mtgtime": "12:00 PM to 7:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.8148408,
+  "lon": -73.9561515
+  },
+  {
+  "address": "109 West 129th Street",
+  "venue": "SRO Building Community Room",
+  "mtgday": "Sundays",
+  "mtgtime": "5:30 PM to 7:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.8106798,
+  "lon": -73.944244
+  },
+  {
+  "address": "469 West 142nd Street",
+  "venue": "Our Lady of Lourdes",
+  "mtgday": "Thursdays",
+  "mtgtime": "6:00 PM to 7:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.8232166,
+  "lon": -73.9484769
+  },
+  {
+  "address": "2044 Seventh Avenue",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "6:00 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8071759186691,
+  "lon": -73.9497519327616
+  },
+  {
+  "address": "127 West 127th Street",
+  "venue": "S.A.G.E.",
+  "mtgday": "Mondays",
+  "mtgtime": "4:30 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8095378,
+  "lon": -73.9453852
+  },
+  {
+  "address": "310 West 139th Street",
+  "venue": "Grace Congregational Baptist Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 7:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.8192096,
+  "lon": -73.9453784
+  },
+  {
+  "address": "409 West 141st Street",
+  "venue": "St. James Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8215113,
+  "lon": -73.9463991
+  },
+  {
+  "address": "91 Claremont Avenue",
+  "venue": "Riverside Church",
+  "mtgday": "Sundays",
+  "mtgtime": "3:00 PM to 7:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.8119559,
+  "lon": -73.9625116
+  },
+  {
+  "address": "1727 Amsterdam Avenue",
+  "venue": "Upper Manhattan Mental Health Center",
+  "mtgday": "Sundays",
+  "mtgtime": "9:30 AM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8255289,
+  "lon": -73.9471616
+  },
+  {
+  "address": "469 West 142nd Street",
+  "venue": "Our Lady of Lourdes Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "5:00 PM to 7:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.8232166,
+  "lon": -73.9484769
+  },
+  {
+  "address": "91 Claremont Avenue",
+  "venue": "Riverside Church",
+  "mtgday": "Mondays",
+  "mtgtime": "7:00 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8119559,
+  "lon": -73.9625116
+  },
+  {
+  "address": "219 West 132nd Street",
+  "venue": "St. Aloysius School",
+  "mtgday": "Saturdays",
+  "mtgtime": "3:00 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8138548,
+  "lon": -73.9459315
+  },
+  {
+  "address": "211 West 129th Street",
+  "venue": "Salem United Methodist Church Community Center",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:30 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8119105,
+  "lon": -73.9471217
+  },
+  {
+  "address": "425 West 144th Street",
+  "venue": "Convent Baptist Church Education Building",
+  "mtgday": "Wednesdays",
+  "mtgtime": "7:00 PM to 7:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8238524,
+  "lon": -73.9461167
+  },
+  {
+  "address": "204 West 134th Street",
+  "venue": "St. Phillip&apos;s Church",
+  "mtgday": "Sundays",
+  "mtgtime": "4:00 PM to 7:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.8147959,
+  "lon": -73.9448542
+  },
+  {
+  "address": "506 Lenox Avenue",
+  "venue": "Harlem Hospital King Pavilion",
+  "mtgday": "Sundays",
+  "mtgtime": "2:00 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8143457,
+  "lon": -73.9403066
+  },
+  {
+  "address": "1727 Amsterdam Avenue",
+  "venue": "Council Center for Problems of Living",
+  "mtgday": "Fridays",
+  "mtgtime": "5:30 PM to 7:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.8255289,
+  "lon": -73.9471616
+  },
+  {
+  "address": "1854 Amsterdam Avenue",
+  "venue": "",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:00 PM to 7:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.8295902,
+  "lon": -73.9446541
+  },
+  {
+  "address": "469 West 142nd Street",
+  "venue": "Our Lady of Lourdes Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "9:30 AM to 7:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.8232166,
+  "lon": -73.9484769
+  },
+  {
+  "address": "58-66 West 135th Street",
+  "venue": "Metropolitan AME Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:30 PM to 7:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.6639307188879,
+  "lon": -73.9382749875207
+  },
+  {
+  "address": "35 East 125 Street",
+  "venue": "Harlem Children&apos;s Zone Admin. Offices",
+  "mtgday": "Saturdays",
+  "mtgtime": "4:15 PM to 5:30 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.805958,
+  "lon": -73.940763
+  },
+  {
+  "address": "223 East 117th Street",
+  "venue": "Peter Jay Sharpe Building",
+  "mtgday": "Tuesdays",
+  "mtgtime": "6:30 PM to 5:30 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.7982106,
+  "lon": -73.9382769
+  },
+  {
+  "address": "2126 2nd Avenue",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "5:00 PM to 5:30 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.7927121,
+  "lon": -73.94069
+  },
+  {
+  "address": "22 East 119th Street",
+  "venue": "Veterans Residence",
+  "mtgday": "Sundays",
+  "mtgtime": "1:00 PM to 5:30 PM",
+  "mtgtype": " T = Tradition ",
+  "lat": 40.8021458,
+  "lon": -73.9442327
+  },
+  {
+  "address": "701 West 168th Street @ Fort Washington Avenue",
+  "venue": "Columbia Presbyterian Hospital",
+  "mtgday": "Thursdays",
+  "mtgtime": "12:00 PM to 1:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.8424566,
+  "lon": -73.9424508
+  },
+  {
+  "address": "715 West 179th Street",
+  "venue": "Holy Rood Church",
+  "mtgday": "Mondays",
+  "mtgtime": "10:00 AM to 1:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.8492702,
+  "lon": -73.9382266
+  },
+  {
+  "address": "715 West 179th Street",
+  "venue": "Holy Rood Church",
+  "mtgday": "Sundays",
+  "mtgtime": "10:00 AM to 1:00 PM",
+  "mtgtype": " S = Step ",
+  "lat": 40.8492702,
+  "lon": -73.9382266
+  },
+  {
+  "address": "431 West 204th Street",
+  "venue": "St. Jude&apos;s School",
+  "mtgday": "Sundays",
+  "mtgtime": "12:00 PM to 1:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.8620966104922,
+  "lon": -73.9190004613749
+  },
+  {
+  "address": "550 West 155th Street",
+  "venue": "Church of the Intercession",
+  "mtgday": "Saturdays",
+  "mtgtime": "12:30 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8321897,
+  "lon": -73.945059
+  },
+  {
+  "address": "557 West 156th Street",
+  "venue": "Casita Esperanza",
+  "mtgday": "Wednesdays",
+  "mtgtime": "8:00 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8333254,
+  "lon": -73.9446563
+  },
+  {
+  "address": "35 Thayer Street",
+  "venue": "",
+  "mtgday": "Sundays",
+  "mtgtime": "5:00 PM to 1:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.8626147,
+  "lon": -73.9263819
+  },
+  {
+  "address": "715 West 179th Street",
+  "venue": "Episcopal Holy Rood Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 PM to 1:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.8492702,
+  "lon": -73.9382266
+  },
+  {
+  "address": "502 West165th Street",
+  "venue": "Church Santa Rosa de Lima",
+  "mtgday": "Sundays",
+  "mtgtime": "2:30 PM to 1:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.6639307188879,
+  "lon": -73.9382749875207
+  },
+  {
+  "address": "91 Arden Street",
+  "venue": "Our Lady Queen of Martyrs",
+  "mtgday": "Mondays",
+  "mtgtime": "8:00 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8639073,
+  "lon": -73.9282532
+  },
+  {
+  "address": "20 Cumming Street",
+  "venue": "Holy Trinity Episcopal Church",
+  "mtgday": "Sundays",
+  "mtgtime": "7:30 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8664723,
+  "lon": -73.9264521
+  },
+  {
+  "address": "84 Vermilyea Avenue",
+  "venue": "Mount Washington Presbyterian Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "11:00 AM to 1:00 PM",
+  "mtgtype": " B = Beginners ",
+  "lat": 40.86596,
+  "lon": -73.9231447
+  },
+  {
+  "address": "620 Isham Street",
+  "venue": "Church of the Good Shepherd",
+  "mtgday": "Mondays",
+  "mtgtime": "8:00 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8692449,
+  "lon": -73.9206611
+  },
+  {
+  "address": "2005 Amsterdam Avenue",
+  "venue": "COATHA Church on the Hill Senior Center",
+  "mtgday": "Fridays",
+  "mtgtime": "7:30 PM to 1:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.8342553,
+  "lon": -73.9407968
+  },
+  {
+  "address": "178 Bennett Avenue",
+  "venue": "Our Saviour&apos;s Atonement Lutheran Church",
+  "mtgday": "Mondays",
+  "mtgtime": "8:00 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8560069,
+  "lon": -73.9342762
+  },
+  {
+  "address": "178 Bennett Avenue",
+  "venue": "Our Saviour&apos;s Atonement Church",
+  "mtgday": "Fridays",
+  "mtgtime": "7:00 PM to 1:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.8560069,
+  "lon": -73.9342762
+  },
+  {
+  "address": "91 Arden Street",
+  "venue": "Our Lady Queen of Martyrs",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:30 PM to 1:00 PM",
+  "mtgtype": " OD = Open Discussion ",
+  "lat": 40.8639073,
+  "lon": -73.9282532
+  },
+  {
+  "address": "20 Cummings Street",
+  "venue": "Holy Trinity Church",
+  "mtgday": "Saturdays",
+  "mtgtime": "7:00 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8664723,
+  "lon": -73.9264521
+  },
+  {
+  "address": "715 West 179th Street",
+  "venue": "Holy Rood Church",
+  "mtgday": "Tuesdays",
+  "mtgtime": "7:30 PM to 1:00 PM",
+  "mtgtype": " O = Open ",
+  "lat": 40.8492702,
+  "lon": -73.9382266
+  },
+  {
+  "address": "189th Street &amp; Bennett Avenue",
+  "venue": "Cornerstone Center",
+  "mtgday": "Thursdays",
+  "mtgtime": "7:30 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.6639307188879,
+  "lon": -73.9382749875207
+  },
+  {
+  "address": "178 Bennett Avenue",
+  "venue": "The Corner Stone Center",
+  "mtgday": "Sundays",
+  "mtgtime": "6:00 PM to 1:00 PM",
+  "mtgtype": " C = Closed Discussion ",
+  "lat": 40.8560069,
+  "lon": -73.9342762
+  },
+  {
+  "address": "178 Bennett Avenue",
+  "venue": "Cornerstone Center",
+  "mtgday": "Mondays",
+  "mtgtime": "7:30 PM to 1:00 PM",
+  "mtgtype": " BB = Big Book ",
+  "lat": 40.8560069,
+  "lon": -73.9342762
+  }
+  ]
