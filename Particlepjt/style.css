@@ -1,128 +1,145 @@
-svg{
+svg {
     font-family: delaney, sans-serif;
     font-weight: 300;
     font-style: normal;
 }
-.tick>text{
-    font-family:Helvetica;
-    font-size:12px;
-    color:rgb(89, 89, 89)
+
+.tick>text {
+    font-family: Helvetica;
+    font-size: 12px;
+    color: rgb(89, 89, 89)
 }
 
-.circletag:hover{
+.circletag:hover {
     stroke-width: 2px;
-    opacity:1;
+    opacity: 1;
 }
-.Me,.Home,.NewHaven,.Providence,.Boston{
+
+.Me,
+.Home,
+.NewHaven,
+.Providence,
+.Boston {
     cursor: pointer;
 }
-body{
-    padding:0;
-    margin:0
-}
-.headline{
-    position:relative;
-    top:5%;
-    font-family:delaney;
-    font-weight:700;
-    font-size:60px;
-    color:#569DC9
-}
-.page1{
-    background-color:#F2F2F2;
-    text-align:center;
-    height:100vh;
-    width:100%;
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #F2F2F2;
 }
 
-.entry{
-position:relative;
-top:100px;
-justify-content: center;
-text-align:left;
-margin:auto;
-width:550px;
-font-family: rixcutecat-pro, sans-serif;
-font-weight: 200;
-font-style: normal;
-font-size:20px;
+.headline {
+    position: relative;
+    top: 5%;
+    font-family: delaney;
+    font-weight: 700;
+    font-size: 60px;
+    color: #569DC9
 }
 
-.labels{
-    font-size:15px;
-    font-family:Helvetica;
+.page1 {
+    background-color: #F2F2F2;
+    text-align: center;
+    height: 100vh;
+    width: 1080px;
+    margin: auto;
 }
-.mapimg{
-    width:500px;
-    display:inline;
-    position:relative;
+
+.entry {
+    position: relative;
+    top: 5%;
+    justify-content: center;
+    text-align: left;
+    margin: auto;
+    width: 550px;
+    font-family: rixcutecat-pro, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
 }
-.grid{
+
+.labels {
+    font-size: 15px;
+    font-family: Helvetica;
+}
+
+.mapimg {
+    width: 300px;
+    display: inline;
+    position: relative;
+    top: 5%;
+}
+
+.grid {
     stroke-width: 0.3;
     stroke: #80808087;
     stroke-dasharray: .5;
 }
-.xaxis{
-    font-size:12px
+
+.xaxis {
+    font-size: 12px
 }
-.yaxis{
-    font-size:12px;
+
+.yaxis {
+    font-size: 12px;
 }
-.page2{
-    width:100%;
-    height:100vh;
-    background-color:#F2F2F2;
-    display:grid;
-    grid-template-columns: 1000px 400px;
-    grid-template-rows:200px 500px 100px;
-    }
-.titleof{
+
+.page2 {
+    width: 1080px;
+    height: 100vh;
+    margin: auto;
+    background-color: #F2F2F2;
+}
+
+.titleof {
     font-family: rixcutecat-pro, sans-serif;
     font-weight: 200;
     font-style: normal;
-    font-size:40px;
-    grid-column:1/-1;
-    grid-row:1/2;
-    display:grid;
-    align-content:center;
-    position:relative;
-    left:50px;
+    font-size: 30px;
+    align-content: center;
+    position: relative;
+    width: 100%;
+    left: 50px;
+    display: block;
 }
-.description{
-    color:rgb(88, 88, 88);
-    grid-row:2/-1;
-    grid-column:2/-1;
+
+.description {
+    color: rgb(88, 88, 88);
+    grid-row: 2/-1;
+    grid-column: 2/-1;
 }
-.graph{
-    grid-row:2/3;
-    grid-column:1/2;
+
+.graph {
+    width: 60%;
 }
-.legends{
-    grid-row:3/4;
-    grid-column:2/3;
-    position:relative;
-    top:-170px;
+
+.legends {
+    grid-row: 3/4;
+    grid-column: 2/3;
+    position: relative;
+    top: -170px;
 }
-.sidedesc{
+
+.sidedesc {
     font-family: Helvetica;
     font-weight: 500;
     font-style: italic;
-    font-size:15px;
-    color:#f36a6a
+    font-size: 15px;
+    color: #f36a6a
 }
-.description{
-    background-color:#e5e2e2;
-    grid-row:2/3;
-    grid-column:2/3;
-    border-radius:10px;
-    height:50%;
-    padding:10px;
-    margin-top:0;
-    display:inline;
-    margin-bottom:0;
+
+.description {
+    background-color: #e5e2e2;
+    border-radius: 10px;
+    height: 40%;
+    width: 30%;
+    position: absolute;
+    right: 5%;
+    padding: 10px;
     font-family: rixcutecat-pro, sans-serif;
     font-weight: 200;
     font-style: normal;
-    font-size:20px;
-    box-shadow:4px 4px 1px rgb(29, 224, 241);
+    font-size: 20px;
+    box-shadow: 4px 4px 1px rgb(29, 224, 241);
 }
