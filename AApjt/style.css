@@ -370,7 +370,7 @@ default:'#FF65AC' */
 #mymap {
     grid-row: 2/-1;
     grid-column: 1/-1;
-    width: 105%;
+    width: 120%;
     border-radius: 25px;
     box-shadow: 6px 6px 2px #567479;
     margin-bottom: 2%
