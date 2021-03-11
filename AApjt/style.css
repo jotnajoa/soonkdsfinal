@@ -373,7 +373,8 @@ default:'#FF65AC' */
     width: 120%;
     border-radius: 25px;
     box-shadow: 6px 6px 2px #567479;
-    margin-bottom: 2%
+    margin-bottom: 2%;
+    height: 95%;
 }
 
 .defaultstate {
