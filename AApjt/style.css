@@ -92,7 +92,7 @@ body {
     display: grid;
     color: #222222;
     font-weight: 600;
-    align-content: center;
+    align-content: start;
     font-size: 20px;
     width: 50%;
     height: 50%;
@@ -142,7 +142,7 @@ body {
     padding: 10px;
     box-shadow: 2px 2px 4px #00000085;
     font-size: 15px;
-    height: 90%;
+    height: 85%;
     margin-left: 2%;
 }
 
